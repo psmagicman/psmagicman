@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi there, I'm Julien 
 
-<!--
-**psmagicman/psmagicman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```
+-----------------
+ About me
+-----------------
+- I am a software developer working professionally since 2014.
+- I love reading articles and keeping up to date with technology
+- Outside of tech, I love riding my motorcycle and going for walks
+- I also like taking care of my dog
+```
+- Linkedin: [https://linkedin.com/in/julienlaw](https://linkedin.com/in/julienlaw)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
