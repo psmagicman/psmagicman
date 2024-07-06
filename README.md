@@ -10,7 +10,7 @@
 - I also like taking care of my dog
 ```
 - Linkedin: [https://linkedin.com/in/julienlaw](https://linkedin.com/in/julienlaw)
-
+- Site: [https://psmagicman.github.io/](https://psmagicman.github.io/)
 ### My dog
 she's on the right
 ![my dog](/IMG_7574.jpg "my dog")
